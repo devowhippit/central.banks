@@ -3,8 +3,8 @@ central.banks
 
 A set of AI and SVG vector icons representing major Central Banks of the world. Created for [Quadrant.io](http://www.quadrant.io "Quadrant.io").
 
-Preview                                    | Bank
--------------------------------------------| ---------------------------
+Preview                                     | Bank
+:-----------------------------------------: | ---------------------------
 ![](png/cb.bank_of_canada.png?raw=true "") | Bank of Canada
 ![](png/cb.bank_of_england.png?raw=true "") | Bank of England
 ![](png/cb.bank_of_japan.png?raw=true "") | Bank of Japan
